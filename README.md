@@ -1,4 +1,4 @@
-# Html-validator-Editor
+# Simple Text Editor
 prog tools project code for HTML validator / Editor 
 
 
